@@ -8,7 +8,7 @@ There is form for to add summary description of a case
 
 ### Description
 
-
+Description is a statement that represent something in words
 
 ### Breif conclusion 
 
